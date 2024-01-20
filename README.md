@@ -2,6 +2,7 @@
 
 # Webhook Sender Hoseinfi ( Discord )
 it is just for discord and writed by python3 with me :)
+> Please Dont Delete File!! else is bug!
 ___
 # Download And Install
 [Download](https://mega.nz/file/Zv0nUR7Z#i7M3MNQ3YtppF3dxHVnmPU69zKqTyuwNWBfvJe0T-K0)
