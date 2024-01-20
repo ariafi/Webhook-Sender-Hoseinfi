@@ -1,6 +1,6 @@
 [![By Hoseinfi](https://github.com/Hoseinfi/Hoseinfi/blob/main/by-hoseinfi.png)](https://github.com/Hoseinfi)
 
-# Webhook Sender Hoseinfi
+# Webhook Sender Hoseinfi ( Discord )
 it is just for discord and writed by python3 with me :)
 ___
 # Download And Install
